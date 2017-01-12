@@ -362,7 +362,7 @@ export class Slides extends Ion {
   /**
    * @private
    */
-  centeredSlides = true;
+  centeredSlides = false;
   /**
    * @private
    */
